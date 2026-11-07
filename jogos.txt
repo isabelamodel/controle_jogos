@@ -1,0 +1,18 @@
+Nome do jogo........: RESIDENT EVIL 4
+Ano lancamento......: 2005
+Gênero do jogo......: AçAO
+Produtora do jogo...: CAPCOM
+Valor...............: 10.00
+
+Nome do jogo........: ZELDA
+Ano lancamento......: 1990
+Gênero do jogo......: AVENTURA
+Produtora do jogo...: NINTENDO
+Valor...............: 500.00
+
+Nome do jogo........: MARIO
+Ano lancamento......: 1900
+Gênero do jogo......: AVENTURA
+Produtora do jogo...: NINTENDO
+Valor...............: 500.00
+
